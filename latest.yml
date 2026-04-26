@@ -1,8 +1,8 @@
-version: 1.5.6
+version: 1.5.7
 files:
-  - url: FinArchitect-ERP-Setup-1.5.6.exe
-    sha512: Rs7ifPojForn1CxauvJb8e3kD1ya226B8qUr3ovOg+Sghb+jN+BNBXCQJVurA9k4vyjfMt9t/4sOZwlocm6GKQ==
-    size: 101491516
-path: FinArchitect-ERP-Setup-1.5.6.exe
-sha512: Rs7ifPojForn1CxauvJb8e3kD1ya226B8qUr3ovOg+Sghb+jN+BNBXCQJVurA9k4vyjfMt9t/4sOZwlocm6GKQ==
-releaseDate: '2026-04-26T11:49:50.963Z'
+  - url: FinArchitect-ERP-Setup-1.5.7.exe
+    sha512: Vkw8+agsTvtgDbNhnSPzYKKIzBEWch5psHktpFtlkQFyrxHw2bTlxawZgTDUQdbcoUkJoPOYfxPYk+rtD3g0XQ==
+    size: 101491935
+path: FinArchitect-ERP-Setup-1.5.7.exe
+sha512: Vkw8+agsTvtgDbNhnSPzYKKIzBEWch5psHktpFtlkQFyrxHw2bTlxawZgTDUQdbcoUkJoPOYfxPYk+rtD3g0XQ==
+releaseDate: '2026-04-26T12:29:36.779Z'
